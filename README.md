@@ -55,4 +55,4 @@ explicit name.
 
  ##### Template Literals
 - Template literasl are a feature in JavaScript that let developers work with strings in a convenient way. 
-- Instead of using double quote`" "` or single` ' '`, you denote strings using backsticks `` ` ` `` 
+- Instead of using double quote `" "` or single `' '`, you denote strings using backsticks `` ` ` `` 
