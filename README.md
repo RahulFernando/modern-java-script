@@ -52,3 +52,7 @@ explicit name.
 - A class is a type of function, but instead of using the keyword function to initiate it, we use the keyword class.
 - The properties are assigned inside a constructor() method.
 - To create a class inheritance, use the extends keyword.
+
+ ##### Template Literals
+- Template literasl are a feature in JavaScript that let developers work with strings in a convenient way. 
+- Instead of using double quote` " "` or single` ' '`, you denote strings using backsticks `` ` ` `` 
