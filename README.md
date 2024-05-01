@@ -47,3 +47,8 @@ explicit name.
 
 ###### Defining Default Values for Parameters
 - Parameters can take default values that step in for any missing arguments.
+
+##### Classes and Inheritance
+- A class is a type of function, but instead of using the keyword function to initiate it, we use the keyword class.
+- The properties are assigned inside a constructor() method.
+- To create a class inheritance, use the extends keyword.
