@@ -1,11 +1,5 @@
 ### Modern JavaScript
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 ##### What is ECMAScript (ES)
 
 ECMAScript (or ES) is a standardized scripting language specification primarily used for defining the behavior of JavaScript. It specifies the features and syntax that a scripting language like JavaScript should support, ensuring consistency across different implementations and environments.
