@@ -1,5 +1,7 @@
 ### Modern JavaScript
 
+[Recording](https://expolanka.sharepoint.com/:v:/r/sites/CloudAppDev/Shared%20Documents/Tech%20Talks/Recordings/Modern%20JavaScript%20Refresher-20240502_140703-Meeting%20Recording.mp4?csf=1&web=1&e=jgajsn "Recording")
+
 ##### What is ECMAScript (ES)
 
 ECMAScript (or ES) is a standardized scripting language specification primarily used for defining the behavior of JavaScript. It specifies the features and syntax that a scripting language like JavaScript should support, ensuring consistency across different implementations and environments.
